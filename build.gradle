@@ -6,7 +6,7 @@ apply plugin: 'maven'
 apply plugin: 'eclipse'
 
 repositories { 
-  mavenLocal(),
+  mavenLocal()
   mavenCentral()
 }
 
