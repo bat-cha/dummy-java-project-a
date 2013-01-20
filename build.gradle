@@ -2,6 +2,7 @@ version = '4.2'
 group = 'org.batcha'
 
 apply plugin: 'java'
+apply plugin: 'application'
 apply plugin: 'eclipse'
 
 repositories {
