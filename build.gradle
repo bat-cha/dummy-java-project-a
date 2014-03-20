@@ -1,4 +1,4 @@
-version = '4.2'
+version = '4.2-branch'
 group = 'org.batcha'
 
 apply plugin: 'java'
